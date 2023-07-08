@@ -1,7 +1,6 @@
 package uz.pdp.examproject.controller;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpEntity;
 import org.springframework.web.bind.annotation.*;
 import uz.pdp.examproject.entity.ApiResponse;
